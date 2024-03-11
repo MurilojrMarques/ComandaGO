@@ -1,0 +1,10 @@
+<resources>
+    <string name="nome_app">ComandaGO</string>
+    <string name="title_activity_login">Activity_login</string>
+    <string name="usuario">Usuário</string>
+    <string name="login">LOGIN</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="esqueceusenha">Esqueceu sua senha? Clique aqui</string>
+</resources>
+
